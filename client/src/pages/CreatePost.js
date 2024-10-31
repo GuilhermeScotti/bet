@@ -49,6 +49,7 @@ const CreatePost = () => {
           rows="5"
           cols="50"
           id="description"
+          name="description"
           onChange={handleChange}
         ></textarea>
         <br />
